@@ -29,13 +29,13 @@ When using the coffee NFT at different participating cafes, users can redeem the
 * UAT (10 people with positive feedback)
 
 ## What's next for StarkCoffee
-Introduce additional coffee NFTs with limited-time availability and other discount benefits.
+* Introduce additional coffee NFTs with limited-time availability and other discount benefits.
 
-Allow members to exchange NFTs to unlock more perks and benefits.
+* Allow members to exchange NFTs to unlock more perks and benefits.
 
-Utilize NFTs to promote local characteristic culture, tourist attractions, and the Web3 ecosystem through coffee.
+* Utilize NFTs to promote local characteristic culture, tourist attractions, and the Web3 ecosystem through coffee.
 
-Implement combo rewards where using specific combinations of NFTs unlocks additional coffee discounts.
+* Implement combo rewards where using specific combinations of NFTs unlocks additional coffee discounts.
 
 ## Vision:
 
