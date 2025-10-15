@@ -4,6 +4,10 @@
 ## Website (Dapp)
 * https://starknetstarkcoffee-5ub04vohy-martinyeung5s-projects.vercel.app
 
+## testnet RPC
+https://starknet-sepolia.public.blastapi.io/rpc/v0_9
+
+
 ## Inspiration & Introduction
 Developed using Scaffold-Stark, this Coffee NFT Membership System is designed for coffee shops, aiming to form an alliance among independent cafes. It overcomes limitations of geography, payment methods, and high transaction fees, thereby reducing marketing costs and creating a win-win situation for all participating businesses.
 
