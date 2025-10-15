@@ -24,7 +24,7 @@ When using the coffee NFT at different participating cafes, users can redeem the
 * need to communicate with different coffee shops and let them to join our program
 
 ## Accomplishments that we're proud of
-* Dapp finished (version 1.0)
+* Dapp finished (version 1.0) : NFT box + NFT transfer
 * Colloboration (2 coffee shops in Hong Kong)
 * UAT (10 people with positive feedback)
 
