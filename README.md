@@ -21,7 +21,7 @@ When using the coffee NFT at different participating cafes, users can redeem the
 * Dapp: nextjs
 
 ## Challenges we ran into
-* need to communicate woth different coffee shops and let them to join our program
+* need to communicate with different coffee shops and let them to join our program
 
 ## Accomplishments that we're proud of
 * Dapp finished (version 1.0)
