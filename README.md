@@ -14,7 +14,7 @@ Developed using Scaffold-Stark, this Coffee NFT Membership System is designed fo
 For consumers, the system protects personal privacy and significantly cuts down the time required to register as a member at various coffee shops. For coffee enthusiasts who frequently travel or go on business trips, it offers the ultimate convenience – one universal pass for all affiliated cafes, making life easier and simpler.
 
 ## What it does
-User-Mintable NFTs: Users can currently mint one of 5 different coffee NFTs, each corresponding to different types of coffee and various merchants.
+User-Mintable NFTs: Users can currently mint one of 5 different coffee NFTs from the NFT box, each corresponding to different types of coffee and various merchants.
 
 NFT Gifting: If a user doesn't like the NFT they receive, they can gift it to someone else.
 
