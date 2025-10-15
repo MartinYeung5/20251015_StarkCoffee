@@ -4,24 +4,31 @@
 ## Website (Dapp)
 * https://starknetstarkcoffee-5ub04vohy-martinyeung5s-projects.vercel.app
 
-## Introduction:
-
+## Inspiration & Introduction
 Developed using Scaffold-Stark, this Coffee NFT Membership System is designed for coffee shops, aiming to form an alliance among independent cafes. It overcomes limitations of geography, payment methods, and high transaction fees, thereby reducing marketing costs and creating a win-win situation for all participating businesses.
 
 For consumers, the system protects personal privacy and significantly cuts down the time required to register as a member at various coffee shops. For coffee enthusiasts who frequently travel or go on business trips, it offers the ultimate convenience – one universal pass for all affiliated cafes, making life easier and simpler.
 
-## Features:
-
+## What it does
 User-Mintable NFTs: Users can currently mint one of 5 different coffee NFTs, each corresponding to different types of coffee and various merchants.
 
 NFT Gifting: If a user doesn't like the NFT they receive, they can gift it to someone else.
 
-## Usage:
-
+* usage:
 When using the coffee NFT at different participating cafes, users can redeem the discount displayed on their NFT based on the specific promotional offers of each shop.
 
-## Future Development:
+## How we built it
+* Dapp: nextjs
 
+## Challenges we ran into
+* need to communicate woth different coffee shops and let them to join our program
+
+## Accomplishments that we're proud of
+* Dapp finished (version 1.0)
+* Colloboration (2 coffee shops in Hong Kong)
+* UAT (10 people with positive feedback)
+
+## What's next for StarkCoffee
 Introduce additional coffee NFTs with limited-time availability and other discount benefits.
 
 Allow members to exchange NFTs to unlock more perks and benefits.
